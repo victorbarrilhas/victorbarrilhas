@@ -5,10 +5,11 @@
 - 🌱 I'm studying the 2nd Semester of Computer Science. 
 - 😄 Pronouns: Ele/He
 
- <div>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=victorbarrilhas&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarrilhas&layout=compact&langs_count=7&theme=dark">
-</div>
+<div>
+ <a href="https://github.com/victorbarrilhas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbarrilhas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarrilhas&layout=compact&langs_count=7&theme=dark"/>
+ </div>
   
   ##
   
