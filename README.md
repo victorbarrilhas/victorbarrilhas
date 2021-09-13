@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently looking for an opportunity in the Development area.
-- 🌱 I'm studying the 2nd Semester of Computer Science. 
+- 🌱 I'm studying Computer Science. 
 - 😄 Pronouns: Ele/He
 
 <div>
