@@ -55,12 +55,10 @@ Bacharel em Ciências da Computação pela **UNICARIOCA**, atuo como desenvolved
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Projetos
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=victorbarrilhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbarrilhas&layout=compact&langs_count=7&theme=tokyonight&hide_border=true">
-</p>
+- **[AUTHTDD](https://github.com/victorbarrilhas/AUTHTDD)** — autenticação em Node.js construída com Test Driven Development
+- **[node-example-api](https://github.com/victorbarrilhas/node-example-api)** — API de exemplo em Node.js
 
 ---
 
